@@ -2,7 +2,9 @@
  * @since 2016
  * @author Min
  *
- *
+ * I made this code one day in 2016.
+ * I saw this code again in April 2022.
+ * OMG. ... I thought I was doing a neat coding in 2016 - it's a mess!
  */
 public class GCDandLCM {
 	public GCDandLCM() {};

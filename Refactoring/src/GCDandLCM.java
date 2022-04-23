@@ -15,6 +15,15 @@ public class GCDandLCM {
 			return answer;
 		}
 
+		/***
+		 * 무엇부터 고쳐야하는가.. 
+		 * 총체적 난국이다. 최대공약수/최소공배수를 구하는 함수인데..
+		 * 반복문이 3개..각 반복문이 뭐하는건지는 다시 분석해야겠지만.. 3개나 필요했던걸까?
+		 * 변수가 너무 많다. 
+		 * String 클래스를 비효율적으로 사용하고 있다..
+		 * 
+		 * 밑에 있는 for() 2개는 최대공약수와 최소공배수를 return 변수에 넣기위한 것 같다.
+		 */
 		private int[] calcTest(int a, int b) {
 			int minValue = 2;
 			int tempA = a;

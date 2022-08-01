@@ -13,7 +13,9 @@ import org.json.simple.parser.ParseException;
 /**
  * @author JYChoi
  * @since 2022-07-18
- * 
+ *
+ * file에있는 json 데이터를 읽어서 학생들의 평균을 구한뒤 json 데이터에 추가하고 저장하는 과제
+ *
  * @Mentor MCHeo
  * JYCHoi를 위해  JYCHoi가 개발한 코드기반으로 Refactoring과정 안내
  */
